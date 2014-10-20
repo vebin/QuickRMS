@@ -1,0 +1,16 @@
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.pdb
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Mail\bin\Debug\Quick.Framework.Mail.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Mail\obj\Debug\Quick.Framework.Mail.pdb

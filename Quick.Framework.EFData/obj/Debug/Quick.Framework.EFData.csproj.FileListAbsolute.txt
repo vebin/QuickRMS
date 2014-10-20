@@ -1,0 +1,55 @@
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.pdb
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.pdb
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.xml
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.xml
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.csprojResolveAssemblyReference.cache
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.xml
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.xml
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\EntityFramework.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\EntityFramework.xml
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.pdb
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.EFData.pdb
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\Quick.Framework.Tool.pdb
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\EntityFramework.xml
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.EFData\obj\Debug\Quick.Framework.EFData.pdb

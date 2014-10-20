@@ -1,0 +1,33 @@
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.pdb
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.xml
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.csprojResolveAssemblyReference.cache
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.pdb
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.Common\bin\Debug\Quick.Framework.Common.pdb
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.Common\bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Framework.Common\obj\Debug\Quick.Framework.Common.pdb

@@ -1,0 +1,45 @@
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.csprojResolveAssemblyReference.cache
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Quick.Framework.Tool.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Domain.Models\obj\Debug\QuickRMS.Domain.Models.pdb

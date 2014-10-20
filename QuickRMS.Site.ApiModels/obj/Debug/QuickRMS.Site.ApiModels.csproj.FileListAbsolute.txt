@@ -1,0 +1,23 @@
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.csprojResolveAssemblyReference.cache
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.ApiModels\bin\Debug\QuickRMS.Site.ApiModels.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.ApiModels\obj\Debug\QuickRMS.Site.ApiModels.pdb

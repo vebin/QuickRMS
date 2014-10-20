@@ -1,0 +1,22 @@
+E:\My Project\QuickRMS\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.pdb
+E:\My Project\QuickRMS\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Site.Common\bin\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Site.Common\bin\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Site.Common\obj\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Site.Common\obj\Debug\Quick.Site.Common.pdb
+E:\WorkSpace\VS\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Site.Common\bin\Debug\Quick.Site.Common.pdb
+E:\WorkSpace\VS\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.dll
+E:\WorkSpace\VS\QuickRMS\Quick.Site.Common\obj\Debug\Quick.Site.Common.pdb

@@ -1,0 +1,360 @@
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.dll.config
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Antlr3.Runtime.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.Mvc.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\WebGrease.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.Edm.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.OData.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.Edm.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.OData.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\de\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\es\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\fr\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\it\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\ja\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\ko\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\ru\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.csprojResolveAssemblyReference.cache
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.Mvc.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\WebGrease.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.Edm.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.OData.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.Edm.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.OData.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\de\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\es\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\fr\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\it\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\ja\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\ko\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\ru\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Antlr3.Runtime.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\WebGrease.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\de\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\es\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\fr\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\it\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\ja\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\ko\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\ru\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Antlr3.Runtime.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Elmah.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Elmah.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Microsoft.Data.Edm.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Microsoft.Data.OData.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Spatial.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Helpers.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Http.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Optimization.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Razor.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.WebPages.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\WebGrease.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\EntityFramework.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Microsoft.Data.Edm.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Microsoft.Data.OData.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Spatial.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Http.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Helpers.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Mvc.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Optimization.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.Razor.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.WebPages.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\EntityFramework.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\de\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\es\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\fr\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\it\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\ja\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\ko\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\ru\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.WebUI.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Antlr3.Runtime.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Elmah.Mvc.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\WebGrease.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Common.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.EFData.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Framework.Tool.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Quick.Site.Common.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Service.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Data.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Domain.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.ApiModels.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Site.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.SqlServer.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.Edm.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Microsoft.Data.OData.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Net.Http.Formatting.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Spatial.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.OData.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Http.WebHost.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Helpers.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Mvc.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Optimization.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.Razor.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\Newtonsoft.Json.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\EntityFramework.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\QuickRMS.Core.Repository.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\de\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\es\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\fr\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\it\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\ja\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\ko\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\ru\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.WebUI\obj\Debug\QuickRMS.Site.WebUI.pdb

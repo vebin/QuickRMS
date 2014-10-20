@@ -1,0 +1,16 @@
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.pdb
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.dll
+E:\My Project\QuickRMS\QuickRMS\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.dll
+C:\Users\TerryChen\Desktop\QuickRMS\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.pdb
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.dll
+E:\OpenSource\RuleManager\QuickRMS\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Logging\bin\Debug\Quick.Framework.Logging.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.dll
+E:\OpenSource\RuleManager\QuickRMS-error\Quick.Framework.Logging\obj\Debug\Quick.Framework.Logging.pdb

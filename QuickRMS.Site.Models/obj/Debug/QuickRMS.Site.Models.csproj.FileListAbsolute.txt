@@ -1,0 +1,45 @@
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.csprojResolveAssemblyReference.cache
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\bin\Debug\QuickRMS.Site.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\bin\Debug\Quick.Site.Common.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\bin\Debug\System.Web.Mvc.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Site.Models\obj\Debug\QuickRMS.Site.Models.pdb

@@ -1,0 +1,125 @@
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.pdb
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.xml
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.csprojResolveAssemblyReference.cache
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.dll
+E:\My Project\QuickRMS\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.pdb
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.csprojResolveAssemblyReference.cache
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.dll
+C:\Users\TerryChen\Desktop\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.xml
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.dll
+E:\OpenSource\RuleManager\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\EntityFramework.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.pdb
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\EntityFramework.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.xml
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.csprojResolveAssemblyReference.cache
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.dll
+E:\OpenSource\RuleManager\QuickRMS-error\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Service.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Common.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.EFData.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Framework.Tool.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Quick.Site.Common.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Core.Repository.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Domain.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\QuickRMS.Site.Models.pdb
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\EntityFramework.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\bin\Debug\System.Web.Mvc.xml
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.csprojResolveAssemblyReference.cache
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.dll
+E:\WorkSpace\VS\QuickRMS\QuickRMS.Core.Service\obj\Debug\QuickRMS.Core.Service.pdb

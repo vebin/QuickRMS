@@ -1,0 +1,92 @@
+﻿@using QuickRMS.Site.Models.SSO.Apps
+@using Quick.Site.Common.Models
+@model AppsModel
+
+@Html.HiddenFor(t => t.Id)
+
+<!-- Nav tabs -->
+<ul class="nav nav-tabs">
+    <li class="active"><a href="#base" data-toggle="tab">基本信息</a></li>
+    <li><a href="#Apps" data-toggle="tab">APP</a></li>
+</ul>
+
+<!-- Tab panes -->
+<div class="tab-content">
+    <div class="tab-pane active" id="base">
+        <div class="control-group">
+            <label class="control-label-form">
+                @Html.DisplayNameFor(t => t.APIKey) :
+            </label>
+            <div class="controls">
+                <label class="label-text">
+                    @Html.TextBoxFor(t => t.APIKey, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.APIKey)
+                </label>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label-form">
+                @Html.DisplayNameFor(t => t.AppName) :
+            </label>
+            <div class="controls">
+                <label class="label-text">
+                    @Html.TextBoxFor(t => t.AppName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.AppName)
+                </label>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label-form">
+                @Html.DisplayNameFor(t => t.AppType) :
+            </label>
+            <div class="controls">
+                <label class="label-text">
+                    @Html.TextBoxFor(t => t.AppType, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.AppType)
+                </label>
+            </div>
+        </div>
+    
+        <div class="control-group">
+            <label class="control-label-form">
+                @Html.DisplayNameFor(t => t.AppDesc) :
+            </label>
+            <div class="controls">
+                @Html.TextBoxFor(t => t.AppDesc, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.AppDesc)
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label-form">
+                @Html.DisplayNameFor(t => t.EncrytKey) :
+            </label>
+            <div class="controls">
+                @Html.TextBoxFor(t => t.EncrytKey, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label-form">
+                @Html.DisplayNameFor(t => t.CallBackUrl) :
+            </label>
+            <div class="controls">
+                @Html.TextBoxFor(t => t.CallBackUrl, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label-form">
+                @Html.DisplayNameFor(t => t.IsOnline) :
+            </label>
+            <div class="controls">
+                @Html.CheckBoxFor(t => t.IsOnline)
+            </div>
+        </div>       
+
+    </div>
+    
+</div>
+
